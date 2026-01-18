@@ -6,7 +6,7 @@
 
 ### - 🔗 ***Get the Latest Release:***
 
-- [💾 Releases Page]() = `*Latest Release as of now*`
+- [💾 Releases Page](https://github.com/Monster-Hunter-Wilds-DLC-Unlocker/.github/releases) = `*Latest Release as of now*`
 
 ---
 
